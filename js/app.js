@@ -13,6 +13,6 @@ $('#printView').on('click', function() {
 	if ($('#printView').hasClass('webView')) {
 		window.location.href='?print';
 	} else {
-		window.location.href="/joshjam";
+		window.location.href="/";
 	}
 });
