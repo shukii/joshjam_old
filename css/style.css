@@ -1,0 +1,37 @@
+.underPhotoHead {
+	margin-top: -10px;
+}
+
+.smallParagraph {
+	font-size: 20px;
+}
+
+.smallerParagraph {
+	font-size: 16px;
+}
+
+h4 {
+	font-size:24px;
+}
+
+.smallHead {
+	font-size:20px;
+}
+
+body {
+	text-rendering: optimizeLegibility;
+  	-webkit-font-smoothing: antialiased;
+}
+
+.lead {
+	font-size:28px;
+}
+
+a {
+	color: #07c;
+	text-shadow: none;
+}
+
+a:hover {
+	text-shadow: none;	
+}
