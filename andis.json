@@ -1,0 +1,128 @@
+ [{
+  "id": 1,
+  "name": "Ray",
+  "level": 3,
+  "role": "product developer",
+  "img": "https://static.andigital.com/wp-content/uploads/2017/06/08100555/Ramon-Square-300x300.png",
+  "skills": [{
+             "id": 1,
+             "name": "angular",
+             "type": "front-end"
+             }, {
+             "id": 3,
+             "name": "java",
+             "type": "back-end"
+             },
+             {
+             "id": 4,
+             "name": "vue",
+             "type": "front-end"
+             },
+             {
+             "id": 5,
+             "name": "node",
+             "type": "back-end"
+             },
+             {
+             "id": 6,
+             "name": "css",
+             "type": "front-end"
+             },
+             {
+             "id": 7,
+             "name": "HTML",
+             "type": "front-end"
+             }
+             ]
+  }, {
+  "id": 2,
+  "name": "Maher",
+  "level": 2,
+  "role": "product developer",
+  "img": "https://yt3.ggpht.com/a-/AJLlDp114j1D4Dma5CKHd8cajASQAfncThkcf6Bh4w=s900-mo-c-c0xffffffff-rj-k-no",
+  "skills": [{
+             "id": 1,
+             "name": "angular",
+             "type": "front-end"
+             },
+             {
+             "id": 2,
+             "name": "react",
+             "type": "front-end"
+             },
+             {
+             "id": 3,
+             "name": "java",
+             "type": "back-end"
+             },
+             {
+             "id": 4,
+             "name": "vue",
+             "type": "front-end"
+             },
+             {
+             "id": 5,
+             "name": "node",
+             "type": "back-end"
+             },
+             {
+             "id": 6,
+             "name": "css",
+             "type": "front-end"
+             },
+             {
+             "id": 7,
+             "name": "HTML",
+             "type": "front-end"
+             }
+             ]
+  }, {
+  "id": 3,
+  "name": "Josh Laird",
+  "level": 4,
+  "role": "product developer",
+  "img": "https://i.stack.imgur.com/lLHF6.png?s=328&g=1",
+  "skills": [{
+             "id": 3,
+             "name": "java",
+             "type": "back-end"
+             },
+             {
+             "id": 8,
+             "name": "android",
+             "type": "back-end"
+             }
+             ]
+  }, {
+  "id": 4,
+  "name": "Victor",
+  "level": 5,
+  "role": "product analyst",
+  "img": "https://static.andigital.com/wp-content/uploads/2017/03/08174335/Victor-Square-300x300.png",
+  "skills": [{
+             "id": 9,
+             "name": "UX",
+             "type": "analyst"
+             },
+             {
+             "id": 10,
+             "name": "problem solving",
+             "type": "analyst"
+             },
+             {
+             "id": 11,
+             "name": "requirements gathering",
+             "type": "analyst"
+             },
+             {
+             "id": 12,
+             "name": "user journey",
+             "type": "analyst"
+             },
+             {
+             "id": 13,
+             "name": "business process mapping",
+             "type": "analyst"
+             }
+             ]
+  }]
